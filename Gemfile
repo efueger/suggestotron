@@ -29,6 +29,9 @@ end
 
 gem 'jquery-rails'
 
+
+gem "codeclimate-test-reporter", group: :test, require: nil
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
