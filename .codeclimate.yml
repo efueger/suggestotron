@@ -1,4 +1,6 @@
 languages:
   Ruby: true
-exclude_paths:
-- "foo/bar.rb"
+  JavaScript: true
+ exclude_paths:
+ - "docs/*"
+ - "lib/assets/*”
