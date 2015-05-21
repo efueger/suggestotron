@@ -1,4 +1,4 @@
- languages:
+languages:
   Ruby: true
   JavaScript: true
 exclude_paths:
