@@ -1,4 +1,4 @@
-languages:
-  Ruby: true
 exclude_paths:
 - "foo/bar.rb"
+languages:
+  Ruby: true
